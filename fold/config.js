@@ -8,4 +8,4 @@ aws_secret_key = 'AKIATRRXZPMV5NNO6LGS'
 aws_secret_key = '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'
 
 let a = 123
-RUBY_GEMS_KEY='rubygems_8dc665f7250fb7f9795a6ba0cf60d6131c2cea7f6782ac05' //okay
+
