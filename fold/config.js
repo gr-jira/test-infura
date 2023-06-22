@@ -7,4 +7,4 @@ TOKEN=EAAAFDSwkTXG-_vrOZFVsouJFLv6rfYuJm5g9TATueE7SK7Ut9mUwPn15II4dVTK
 aws_secret_key = 'AKIATRRXZPMV5NNO6LGS'
 aws_secret_key = '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'
 
-RUBY_GEMS_KEY='rubygems_8dc665f7250fb7f9795a6ba0cf60d6131c2cea7f6782ac05'
+RUBY_GEMS_KEY='rubygems_8dc665f7250fb7f9795a6ba0cf60d6131c2cea7f6782ac05' //okay
