@@ -1,1 +1,1 @@
-INFURA_2=https://mainnet.infura.io/v3/5d07495d44b745c2b2340053d7d4d932
+INFURA=https://mainnet.infura.io/v3/5d07495d44b745c2b2340053d7d4d932
